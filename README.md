@@ -4,8 +4,8 @@ Hello, I recently done my shield insurance project which is the part of my inter
 
 # You can also see my Project on visiting below link:
 1) Livedashboard-[Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTQwZDY4MzktZmRhOS00YzdkLThjNTgtZjFmNDM0Y2VlNjE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-2) Presentation Video-[Click Here]()
-3) Portfolio-[Click Here]()
+2) Presentation Video-[Click Here](https://youtu.be/7Use8KkkcIQ)
+3) Portfolio-[Click Here](https://codebasics.io/portfolio/Samruddhi-Deshmukh)
 
 
 ## Overview
